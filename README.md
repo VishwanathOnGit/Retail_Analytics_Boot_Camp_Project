@@ -53,7 +53,7 @@
       ⇉ There are no big outlets in Tier 1 cities. Hence, The sales in Tier 1 cities is low
       
       
-#### 3. Linear Regression Model
+#### 4. Linear Regression Model
 
 #### ◉ Intuition from the Co-efficient values:
 
@@ -66,20 +66,20 @@
         ⇉ R2 Score of the Model ⇉ 56.52
 
 
-#### 4. XGBoost Regressor Model
+#### 5. XGBoost Regressor Model
 
 #### ◉ Model Score:     
         ⇉ RMSE of the Model ⇉ 1115
         ⇉ R2 Score of the Model ⇉ 57.29
         
         
-#### 4. XGBoost Regressor With GridSearchCV Model
+#### 6. XGBoost Regressor With GridSearchCV Model
 
 #### ◉ Model Score:     
         ⇉ RMSE of the Model ⇉ 1072
         
         
-#### 5. Model Evaluation
+#### 7. Model Evaluation
      ➥ Comparing the RMSE obtained from different models.
 
         ⇉ RMSE for Linear Regression - 1124
