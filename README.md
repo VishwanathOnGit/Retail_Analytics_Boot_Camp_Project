@@ -1,10 +1,10 @@
-★ Retail Analytics Bootcamp Project
+# ★ Retail Analytics Bootcamp Project
 
-### 1. Objective
+#### 1. Objective
       ⇉ Goal of this project is to **Predict The Sales** of a Retail outlet   based on the historical data provided for sales.
 
 
-### 2. Column Description
+#### 2. Column Description
 
       ⇉ **Item Identifier**: A code provided for the item of sale <br>
       ⇉ **Item Weight**: Weight of item <br>
