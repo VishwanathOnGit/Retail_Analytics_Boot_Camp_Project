@@ -1,7 +1,7 @@
 # ★ Retail Analytics Bootcamp Project
 
 #### 1. Objective
-      ⇉ Goal of this project is to **Predict The Sales** of a Retail outlet   based on the historical data provided for sales.
+      ⇉ The goal of this project is to **Predict The Sales** of a Retail outlet based on the historical data provided for sales.
 
 
 #### 2. Column Description
