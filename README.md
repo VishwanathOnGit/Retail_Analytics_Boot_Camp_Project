@@ -80,9 +80,8 @@
         
         
 #### 5. Model Evaluation
-     ➥ In this phase of the project we're going to evaluate the models that we've built so far.
-        We will compare the RMSE obtained from different models.
+     ➥ Comparing the RMSE obtained from different models.
 
-        ⇉ RMSE for Linear Regression - 1124   <br>
-        ⇉ RMSE for XGBoost - 1115   <br>
+        ⇉ RMSE for Linear Regression - 1124
+        ⇉ RMSE for XGBoost - 1115
         ⇉ RMSE for XGBoost with GridSearchCV - 1072
