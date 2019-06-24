@@ -40,7 +40,19 @@
          ⇉ Item_Weight has **17.2% missing values**<br>
          ⇉ Outlet_Size has **28.3% missing values**
    
-   
+#### 3. Insights
+      ⇉ There is no significant correlation between the variables.
+      ⇉ There is moderate correlation between Item_Outlet_Sales and Item_MRP.
+      ⇉ Most of the sales amount are happening for Starchy Foods or Seafood.
+      ⇉ Fruits and Vegetables are the most sold items in Tier 3 and Tier 1 cities whereas Snack Foods are the most sold items in Tier 2 cities. 
+      ⇉ Fruits and Vegetables are the most sold items in 3 location and Seafood is the least sold item in 3 locations.
+      ⇉ Maximum sales is observed in Mid Sized Outlets
+      ⇉ Most of the sales are hapenning in Supermarket Type 3.
+      ⇉ There is less footfalls in outlets established in 1998 and therefore the sales is believed the least.
+      ⇉ Maximum sales is observed in Tier 2 and 3 cities
+      ⇉ There are no big outlets in Tier 1 cities. Hence, The sales in Tier 1 cities is low
+      
+      
 #### 3. Linear Regression Model
 
 #### ◉ Intuition from the Co-efficient values:
